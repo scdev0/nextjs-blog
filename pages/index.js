@@ -12,7 +12,7 @@ export default function Home({ sortedPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi I'm scdev and this is my blog built with next.js</p>
+        <p>Hi I'm scdev0 and this is my blog built with next.js</p>
         <p>Check out some posts!</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

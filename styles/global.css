@@ -5,11 +5,19 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   line-height: 1.6;
-  font-size: 18px;
+  font-size: 10px;
 }
 
 * {
   box-sizing: border-box;
+}
+
+div {
+  font-size: 1.8rem;
+}
+
+section p {
+  font-size: 2rem;
 }
 
 a {
@@ -27,8 +35,8 @@ img {
 }
 
 blockquote {
-  padding: 0 1em;
+  padding: 0 1.8rem;
   color: #6a737d;
-  border-left: 0.25em solid #dfe2e5;
+  border-left: 0.5rem solid #dfe2e5;
   margin: 0;
 }
