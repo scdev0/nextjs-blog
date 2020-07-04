@@ -1,5 +1,5 @@
 ---
-title: 'If It's Not Code Then It Must Be Config/Environment'
+title: If It's Not Code Then It Must Be Config/Environment
 date: '2020-07-01'
 ---
 
