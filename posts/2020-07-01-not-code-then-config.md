@@ -9,4 +9,4 @@ When I first started my career there was a senior developer in my onboarding coh
 
 Even though I agreed with him at the time I didn't really take it into heart until today. It's one of those things you don't truly appreciate until you experience it yourself.
 
-![that'd be great](../public/images/posts/2020-07-01-that-be-great.jpg)
+![that'd be great](/images/posts/2020-07-01-that-be-great.jpg)
